@@ -62,4 +62,4 @@ De las 220 empresas que realmente quebraron, el modelo detectó correctamente 12
 
 ## Licencia
 
-Este proyecto se desarrolla con fines académicos para el curso de Machine Learning de la Universidad de Medellín..
+Este proyecto se desarrolla con fines académicos para el curso de Machine Learning de la Universidad de Medellín.
